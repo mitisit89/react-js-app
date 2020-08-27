@@ -1,0 +1,34 @@
+.navigation {
+    display: flex;
+    flex-flow: row;
+    background-color: #3d3d3f;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+    align-content: space-between;
+}
+
+.nav-list,
+.auth-list {
+    display: inline-flex;
+}
+
+.nav-link {
+    flex-flow: row wrap;
+    padding: inherit;
+}
+
+.nav-link a {
+    color: white;
+}
+
+.nav-menu {
+    display: flex;
+    align-content: inherit;
+    align-content: space-between;
+}
+
+@media {
+
+}

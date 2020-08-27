@@ -1,0 +1,6 @@
+.Card{
+    border: 1px solid #3d3d3f;
+    width: calc((100% / 3) - 20px);
+    flex: 0 0 auto;
+    margin: 0 10px 20px 10px;
+}
